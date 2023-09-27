@@ -1,0 +1,41 @@
+C:\Users\Administrator\Desktop\crawler-code\venv\Scripts\python.exe C:\Users\Administrator\Desktop\crawler-code\main.py 
+Moved E:/crawler/web.archive.org\web\20000510090452im_\http\www.bedbathandbeyond.com\img\i.gif to E:/crawler/crawling-assets/images\i.gif
+Moved E:/crawler/web.archive.org\web\20000815080624im_\http\www.bedbathandbeyond.com\img\bbblogo.gif to E:/crawler/crawling-assets/images\bbblogo.gif
+Moved E:/crawler/web.archive.org\web\20000815080629im_\http\www.bedbathandbeyond.com\img\vBarWhite.gif to E:/crawler/crawling-assets/images\vBarWhite.gif
+Moved E:/crawler/web.archive.org\web\20000815080646im_\http\www.bedbathandbeyond.com\img\iconCart.gif to E:/crawler/crawling-assets/images\iconCart.gif
+Moved E:/crawler/web.archive.org\web\20000815080654im_\http\www.bedbathandbeyond.com\img\iconLocator.gif to E:/crawler/crawling-assets/images\iconLocator.gif
+Moved E:/crawler/web.archive.org\web\20000815080658im_\http\www.bedbathandbeyond.com\Img\iconAccount.gif to E:/crawler/crawling-assets/images\iconAccount.gif
+Moved E:/crawler/web.archive.org\web\20000815080709im_\http\www.bedbathandbeyond.com\img\btn_submenuNone.gif to E:/crawler/crawling-assets/images\btn_submenuNone.gif
+Moved E:/crawler/web.archive.org\web\20000815080719im_\http\www.bedbathandbeyond.com\img\topTab0selected.gif to E:/crawler/crawling-assets/images\topTab0selected.gif
+Moved E:/crawler/web.archive.org\web\20000815080728im_\http\www.bedbathandbeyond.com\img\topTab1.gif to E:/crawler/crawling-assets/images\topTab1.gif
+Moved E:/crawler/web.archive.org\web\20000815080738im_\http\www.bedbathandbeyond.com\img\topTab2.gif to E:/crawler/crawling-assets/images\topTab2.gif
+Moved E:/crawler/web.archive.org\web\20000815080753im_\http\www.bedbathandbeyond.com\img\leftTab0_1.gif to E:/crawler/crawling-assets/images\leftTab0_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080757im_\http\www.bedbathandbeyond.com\img\leftTab1_1.gif to E:/crawler/crawling-assets/images\leftTab1_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080808im_\http\www.bedbathandbeyond.com\img\leftTab2_1.gif to E:/crawler/crawling-assets/images\leftTab2_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080812im_\http\www.bedbathandbeyond.com\img\leftTab3_1.gif to E:/crawler/crawling-assets/images\leftTab3_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080816im_\http\www.bedbathandbeyond.com\img\leftTab4_1.gif to E:/crawler/crawling-assets/images\leftTab4_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080820im_\http\www.bedbathandbeyond.com\img\leftTab5_1.gif to E:/crawler/crawling-assets/images\leftTab5_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080824im_\http\www.bedbathandbeyond.com\img\leftTab6_1.gif to E:/crawler/crawling-assets/images\leftTab6_1.gif
+Moved E:/crawler/web.archive.org\web\20000815080830im_\http\www.bedbathandbeyond.com\img\leftTab7_1.gif to E:/crawler/crawling-assets/images\leftTab7_1.gif
+Moved E:/crawler/web.archive.org\web\20000815081218im_\http\www.bedbathandbeyond.com\img\guarIcon.gif to E:/crawler/crawling-assets/images\guarIcon.gif
+Moved E:/crawler/web.archive.org\web\20000827094830im_\http\www.bedbathandbeyond.com\img\findIt.gif to E:/crawler/crawling-assets/images\findIt.gif
+Moved E:/crawler/web.archive.org\web\20000827094833im_\http\www.bedbathandbeyond.com\img\buttonGo.gif to E:/crawler/crawling-assets/images\buttonGo.gif
+Moved E:/crawler/web.archive.org\web\20001017123040im_\http\www.bedbathandbeyond.com\Assets\product_images\130\28295028479.jpg to E:/crawler/crawling-assets/images\28295028479.jpg
+Moved E:/crawler/web.archive.org\web\20010623011541im_\http\www.bedbathandbeyond.com\Assets\product_images\130\77796500502.jpg to E:/crawler/crawling-assets/images\77796500502.jpg
+Moved E:/crawler/web.archive.org\web\20010623014647im_\http\www.bedbathandbeyond.com\Assets\product_images\130\769072633041b.jpg to E:/crawler/crawling-assets/images\769072633041b.jpg
+Moved E:/crawler/web.archive.org\web\20011025215911im_\http\bedbathandbeyond.com\Assets\product_images\130\84997681930pas.jpg to E:/crawler/crawling-assets/images\84997681930pas.jpg
+Moved E:/crawler/web.archive.org\web\20031213152315im_\http\www.bedbathandbeyond.com\Assets\product_images\230\50911731880P.jpg to E:/crawler/crawling-assets/images\50911731880P.jpg
+Moved E:/crawler/web.archive.org\web\20031213152316im_\http\www.bedbathandbeyond.com\Assets\product_images\130\48411637876P.jpg to E:/crawler/crawling-assets/images\48411637876P.jpg
+Moved E:/crawler/web.archive.org\web\20031213152318im_\http\www.bedbathandbeyond.com\Assets\product_images\130\705857011826pas.jpg to E:/crawler/crawling-assets/images\705857011826pas.jpg
+Moved E:/crawler/web.archive.org\web\20031213152319im_\http\www.bedbathandbeyond.com\homeImg\product_grid_redsquare.gif to E:/crawler/crawling-assets/images\product_grid_redsquare.gif
+Moved E:/crawler/web.archive.org\web\20040108114438im_\http\www.bedbathandbeyond.com\homeImg\Gift_card_position.gif to E:/crawler/crawling-assets/images\Gift_card_position.gif
+Moved E:/crawler/web.archive.org\web\20040108114536im_\http\www.bedbathandbeyond.com\Assets\product_images\130\28295185585.jpg to E:/crawler/crawling-assets/images\28295185585.jpg
+Moved E:/crawler/web.archive.org\web\20040108114539im_\http\www.bedbathandbeyond.com\Assets\product_images\130\665788777393.jpg to E:/crawler/crawling-assets/images\665788777393.jpg
+Moved E:/crawler/web.archive.org\web\20040108114543im_\http\www.bedbathandbeyond.com\homeImg\title.gif to E:/crawler/crawling-assets/images\title.gif
+Moved E:/crawler/web.archive.org\web\20040108114611im_\http\www.bedbathandbeyond.com\homeImg\sm.jpg to E:/crawler/crawling-assets/images\sm.jpg
+Moved E:/crawler/web.archive.org\web\20090318131714im_\http\www.bedbathandbeyond.com\img\callout_giftcards.gif to E:/crawler/crawling-assets/images\callout_giftcards.gif
+Moved E:/crawler/web.archive.org\web\20090622183816im_\http\www.bedbathandbeyond.com\img\btnSubmit.gif to E:/crawler/crawling-assets/images\btnSubmit.gif
+Moved E:/crawler/web.archive.org\web\20090622183823im_\http\www.bedbathandbeyond.com\img\btnSearchOff.gif to E:/crawler/crawling-assets/images\btnSearchOff.gif
+Sorting completed. 37 files moved.
+
+Process finished with exit code 0
